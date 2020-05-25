@@ -1,5 +1,6 @@
+
   
-<!--
+
 Licensed to the Apache Software Foundation (ASF) under one
 or more contributor license agreements.  See the NOTICE file
 distributed with this work for additional information
@@ -14,7 +15,7 @@ software distributed under the License is distributed on an
 KIND, either express or implied.  See the License for the
 specific language governing permissions and limitations
 under the License.
--->
+
 <rdf:RDF xml:lang="en" xmlns="http://usefulinc.com/ns/doap#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:asfext="http://projects.apache.org/ns/asfext#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
   <Project rdf:about="http://Maven.rdf.apache.org/">
     <created>2001</created>
@@ -39,3 +40,59 @@ under the License.
         <file-release>http://archive.apache.org/dist/maven/maven-3/3.6.3/source/apache-maven-3.6.3-src.zip</file-release>
         <file-release>http://archive.apache.org/dist/maven/maven-3/3.6.3/source/apache-maven-3.6.3-src.tar.gz</file-release>
       </Version>
+  <name>Apache Maven 3.5.0</name>
+        <created>2017-04-07</created>
+        <revision>3.5.0</revision>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.5.0/binaries/apache-maven-3.5.0-bin.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.5.0/binaries/apache-maven-3.5.0-bin.tar.gz</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.5.0/source/apache-maven-3.5.0-src.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.5.0/source/apache-maven-3.5.0-src.tar.gz</file-release>
+      </Version>
+    </release>
+    <release>
+      <Version>
+        <name>Apache Maven 3.3.9</name>
+        <created>2015-11-14</created>
+        <revision>3.3.9</revision>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.tar.gz</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.9/source/apache-maven-3.3.9-src.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.9/source/apache-maven-3.3.9-src.tar.gz</file-release>
+      </Version>
+    </release>
+    <release>
+      <Version>
+        <name>Apache Maven 3.3.3</name>
+        <created>2015-04-28</created>
+        <revision>3.3.3</revision>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.3/binaries/apache-maven-3.3.3-bin.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.3/binaries/apache-maven-3.3.3-bin.tar.gz</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.3/source/apache-maven-3.3.3-src.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.3/source/apache-maven-3.3.3-src.tar.gz</file-release>
+      </Version>
+    </release>
+    <release>
+      <Version>
+        <name>Apache Maven 3.3.1</name>
+        <created>2015-03-18</created>
+        <revision>3.3.1</revision>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.1/binaries/apache-maven-3.3.1-bin.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.1/binaries/apache-maven-3.3.1-bin.tar.gz</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.1/source/apache-maven-3.3.1-src.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.3.1/source/apache-maven-3.3.1-src.tar.gz</file-release>
+      </Version>
+    </release>
+    <release>
+      <Version>
+        <name>Apache Maven 3.2.5</name>
+        <created>2014-12-20</created>
+        <revision>3.2.5</revision>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.tar.gz</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.2.5/source/apache-maven-3.2.5-src.zip</file-release>
+        <file-release>http://archive.apache.org/dist/maven/maven-3/3.2.5/source/apache-maven-3.2.5-src.tar.gz</file-release>
+      </Version>
+    </release>
+    <release>
+      <Version>
+
